@@ -1,0 +1,53 @@
+<!doctype >
+<html>
+<head>
+<title id="titleName"> VEGETABLE SALAD
+</title>
+<style>
+#titleName
+{color:purple}
+#benefits
+{
+text-align:center
+
+}
+#benefitsparagraph
+{
+text-align:center
+}
+#steps
+{
+text-align:center
+
+}
+#stepsForVegetableSalad
+{
+text-align:center
+}
+#footerText
+{
+text-align:center
+}
+#vegatableSaladimage
+{ 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+</style>
+</head>
+<body style="background-color:cyan";>
+<img id="vegatableSaladImage" src=" https://img.freepik.com/free-photo/salad-from-tomatoes-cucumber-red-onions-lettuce-leaves-healthy-summer-vitamin-menu-vegan-vegetable-food-vegetarian-dinner-table-top-view-flat-lay_2829-6482.jpg" width=626; height=407;></img>
+<h1 id="benefits"> Benefits of Vegetable Salad</h1>
+<p id="benefitsParagraph">Vegetable Salad is a Natural Source of Fiber and is Good for Digestion.
+<h1 id="steps"> Steps to make vegetable salad</h1>
+<ul id ="stepsForVegetableSalad">
+<li>Peel the cucumber and wash in normal water along with the tomato.</li>
+<li>Cut the beet root, tomato and cucumber into rings.</li>
+<li>Sprinkle some salt and chaat masala.
+</li>
+<li>Serve this nutritional salad with any meal.
+</li>
+</ul>
+<footer id="footerText">  This easy vegetable salad is pacjed with a variety of summer produce with all the textures and color one could ever want.</footer>
+</body>
